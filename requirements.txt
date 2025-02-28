@@ -1,0 +1,14 @@
+langchain
+langchain_chroma
+langchain_community
+langchain_ollama
+langchain_core
+langchain-huggingface
+langchain_experimental
+beautifulsoup4
+transformers
+pymupdf
+pypdf
+unstructured
+flashrank
+faiss-cpu
