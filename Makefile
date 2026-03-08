@@ -1,0 +1,1 @@
+install:\n\tpip install -r requirements.txt\n\nrun:\n\tstreamlit run src/app.py\n\ntest:\n\tpytest tests/\n\nclean:\n\tfind . -type d -name __pycache__ -exec rm -rf {} +
