@@ -118,6 +118,6 @@ This Chatbot is not a substitute for professional medical advice, diagnosis, or 
 
 ## License
 
-[Insert your chosen license here]
+MIT License
 
 
