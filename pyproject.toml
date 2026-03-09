@@ -1,0 +1,1 @@
+[project]\nname = "PROJECT_NAME"\nversion = "0.1.0"\nrequires-python = ">=3.10"\n\n[tool.black]\nline-length = 120\n\n[tool.isort]\nprofile = "black"\nline_length = 120\n\n[tool.pytest.ini_options]\ntestpaths = ["tests"]
