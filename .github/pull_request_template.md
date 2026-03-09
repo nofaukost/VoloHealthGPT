@@ -1,0 +1,1 @@
+## Description\nBrief description of changes.\n\n## Type of Change\n- [ ] Bug fix\n- [ ] New feature\n- [ ] Breaking change\n- [ ] Documentation update\n\n## Testing\nDescribe how you tested these changes.\n\n## Checklist\n- [ ] Code follows project style guidelines\n- [ ] Self-review completed\n- [ ] Documentation updated
